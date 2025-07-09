@@ -1,0 +1,201 @@
+location_id,formattedAddress,addressLine1,addressLine2,county,zipCode,city,state,latitude,longitude
+0,"7011 w parmer ln, austin, tx 78729",7011 W Parmer Ln,Unknown,Williamson,78729,Austin,TX,30.450651,-97.749853
+1,"5200 n lamar blvd, austin, tx 78751",5200 N Lamar Blvd,Unknown,Travis,78751,Austin,TX,30.320159,-97.731593
+2,"1301 w 5th st, austin, tx 78703",1301 W 5th St,Unknown,Travis,78703,Austin,TX,30.271746,-97.759877
+3,"1044 camino ln, costa, austin, tx 78752",1044 Camino Ln,Costa,Travis,78752,Austin,TX,30.32526,-97.69927
+4,"800 w 38th st, austin, tx 78705",800 W 38th St,Unknown,Travis,78705,Austin,TX,30.304715,-97.741423
+5,"8801 n fm 620 rd, austin, tx 78726",8801 N Fm 620 Rd,Unknown,Travis,78726,Austin,TX,30.42695,-97.84242
+6,"2104 e anderson ln, austin, tx 78752",2104 E Anderson Ln,Unknown,Travis,78752,Austin,TX,30.331529,-97.677648
+7,"12430 metric blvd, austin, tx 78758",12430 Metric Blvd,Unknown,Travis,78758,Austin,TX,30.41274,-97.692939
+8,"6500 champion grandview way, austin, tx 78750",6500 Champion Grandview Way,Unknown,Travis,78750,Austin,TX,30.3642,-97.79181
+9,"2402 san gabriel st, austin, tx 78705",2402 San Gabriel St,Unknown,Travis,78705,Austin,TX,30.288448,-97.747951
+10,"1621 e 6th st, austin, tx 78702",1621 E 6th St,Unknown,Travis,78702,Austin,TX,30.262248,-97.726008
+11,"1911 willow creek dr, austin, tx 78741",1911 Willow Creek Dr,Unknown,Travis,78741,Austin,TX,30.23256,-97.72886
+12,"1611 w 5th st, austin, tx 78703",1611 W 5th St,Unknown,Travis,78703,Austin,TX,30.273858,-97.764246
+13,"1720 w wells branch pkwy, austin, tx 78728",1720 W Wells Branch Pkwy,Unknown,Travis County,78728,Austin,TX,30.440369,-97.672445
+14,"13145 n hwy, 183, austin, tx 78750",13145 N Hwy,183,Williamson County,78750,Austin,TX,30.442044,-97.778631
+15,"6607 brodie ln, austin, tx 78745",6607 Brodie Ln,Unknown,Travis,78745,Austin,TX,30.215883,-97.825396
+16,"3816 s lamar blvd, austin, tx 78704",3816 S Lamar Blvd,Unknown,Travis,78704,Austin,TX,30.239108,-97.79131
+17,"1507 kinney ave, austin, tx 78704",1507 Kinney Ave,Unknown,Travis County,78704,Austin,TX,30.253431,-97.766611
+18,"1034 clayton ln, austin, tx 78723",1034 Clayton Ln,Unknown,Travis,78723,Austin,TX,30.31971,-97.7031
+19,"1403 norwalk ln, austin, tx 78703",1403 Norwalk Ln,Unknown,Travis,78703,Austin,TX,30.28921,-97.7714
+20,"811 e 11th st, austin, tx 78702",811 E 11th St,Unknown,Travis,78702,Austin,TX,30.26943,-97.73204
+21,"2819 foster ln, austin, tx 78757",2819 Foster Ln,Unknown,Travis County,78757,Austin,TX,30.356331,-97.73818
+22,"1511 faro dr, austin, tx 78741",1511 Faro Dr,Unknown,Travis County,78741,Austin,TX,30.235227,-97.712617
+23,"1908 w loop, apt a, austin, tx 78758",1908 W Loop,Apt A,Travis,78758,Austin,TX,30.372162,-97.718242
+24,"6263 mcneil dr, austin, tx 78729",6263 Mcneil Dr,Unknown,Travis,78729,Austin,TX,30.440315,-97.747084
+25,"8000 decker ln, austin, tx 78724",8000 Decker Ln,Unknown,Travis,78724,Austin,TX,30.308724,-97.624002
+26,"1810 adina st, unit b, austin, tx 78721",1810 Adina St,Unit B,Travis County,78721,Austin,TX,30.283132,-97.679825
+27,"8312 fathom cir, austin, tx 78750",8312 Fathom Cir,Unknown,Williamson,78750,Austin,TX,30.436356,-97.7768
+28,"7224 northeast dr, austin, tx 78723",7224 Northeast Dr,Unknown,Travis County,78723,Austin,TX,30.321055,-97.680679
+29,"8001 s ih, # 35, austin, tx 78744",8001 S Ih,# 35,Travis County,78744,Austin,TX,30.174784,-97.775327
+30,"9501 n fm 620 rd, austin, tx 78726",9501 N Fm 620 Rd,Unknown,Travis,78726,Austin,TX,30.43486,-97.83915
+31,"500 e anderson ln, austin, tx 78752",500 E Anderson Ln,Unknown,Travis,78752,Austin,TX,30.34206,-97.70144
+32,"9617 great hills trl, austin, tx 78759",9617 Great Hills Trl,Unknown,Travis,78759,Austin,TX,30.393533,-97.753775
+33,"625 e stassney ln, austin, tx 78745",625 E Stassney Ln,Unknown,Travis,78745,Austin,TX,30.20068,-97.76971
+34,"3621 w slaughter ln, austin, tx 78749",3621 W Slaughter Ln,Unknown,Travis,78749,Austin,TX,30.18414,-97.85339
+35,"8805 n plaza dr, austin, tx 78753",8805 N Plaza Dr,Unknown,Travis,78753,Austin,TX,30.34965,-97.68629
+36,"111 sandra muraida way, austin, tx 78703",111 Sandra Muraida Way,Unknown,Travis,78703,Austin,TX,30.267449,-97.754759
+37,"1300 pleasant valley rd s, austin, tx 78741",1300 Pleasant Valley Rd S,Unknown,Travis County,78741,Austin,TX,30.24047,-97.719682
+38,"10600 jollyville rd, austin, tx 78759",10600 Jollyville Rd,Unknown,Travis,78759,Austin,TX,30.399719,-97.749875
+39,"460 bastrop hwy s, austin, tx 78741",460 Bastrop Hwy S,Unknown,Travis,78741,Austin,TX,30.237778,-97.688568
+40,"7000 e ben white blvd, austin, tx 78741",7000 E Ben White Blvd,Unknown,Travis,78741,Austin,TX,30.217479,-97.702228
+41,"1003 justin ln, austin, tx 78757",1003 Justin Ln,Unknown,Travis,78757,Austin,TX,30.337039,-97.722252
+42,"300 west ave, austin, tx 78701",300 West Ave,Unknown,Travis,78701,Austin,TX,30.2686,-97.75291
+43,"2016 park bend dr, austin, tx 78758",2016 Park Bend Dr,Unknown,Travis,78758,Austin,TX,30.408332,-97.698735
+44,"6600 ed bluestein blvd, austin, tx 78723",6600 Ed Bluestein Blvd,Unknown,Travis,78723,Austin,TX,30.305748,-97.66245
+45,"1200 e parmer ln, austin, tx 78753",1200 E Parmer Ln,Unknown,Travis,78753,Austin,TX,30.396078,-97.652516
+46,"700 hearn st, austin, tx 78703",700 Hearn St,Unknown,Travis,78703,Austin,TX,30.280987,-97.771896
+47,"7601 rialto blvd, austin, tx 78735",7601 Rialto Blvd,Unknown,Travis,78735,Austin,TX,30.25294,-97.87262
+48,"15510 ranch road 620 rd, austin, tx 78717",15510 Ranch Road 620 Rd,Unknown,Williamson County,78717,Austin,TX,30.485601,-97.736289
+49,"8701 bluffstone cv, austin, tx 78759",8701 Bluffstone Cv,Unknown,Travis,78759,Austin,TX,30.390953,-97.763931
+50,"11060 ne 2nd ave, seattle, wa 98125",11060 Ne 2nd Ave,Unknown,King County,98125,Seattle,WA,47.709573,-122.327355
+51,"1251 taylor ave n, seattle, wa 98109",1251 Taylor Ave N,Unknown,King,98109,Seattle,WA,47.631123,-122.346637
+52,"1321 e john st, seattle, wa 98102",1321 E John St,Unknown,King,98102,Seattle,WA,47.619789,-122.31469
+53,"5398 russell ave nw, seattle, wa 98107",5398 Russell Ave NW,Unknown,King,98107,Seattle,WA,47.66798,-122.38137
+54,"10711 8th ave ne, seattle, wa 98125",10711 8th Ave NE,Unknown,King,98125,Seattle,WA,47.707008,-122.321083
+55,"600 w olympic pl, seattle, wa 98119",600 W Olympic Pl,Unknown,King,98119,Seattle,WA,47.62764,-122.365128
+56,"4100 sw edmunds st, seattle, wa 98116",4100 Sw Edmunds St,Unknown,King,98116,Seattle,WA,47.56021,-122.38442
+57,"2615 25th ave s, seattle, wa 98144",2615 25th Ave S,Unknown,King County,98144,Seattle,WA,47.579515,-122.300585
+58,"1430 2nd ave, seattle, wa 98101",1430 2nd Ave,Unknown,King,98101,Seattle,WA,47.609133,-122.3383
+59,"14200 linden ave n, seattle, wa 98133",14200 Linden Ave N,Unknown,King,98133,Seattle,WA,47.73198,-122.34751
+60,"1850 n 34th st, seattle, wa 98103",1850 N 34th St,Unknown,King,98103,Seattle,WA,47.64823,-122.33596
+61,"403 dexter ave n, seattle, wa 98109",403 Dexter Ave N,Unknown,King,98109,Seattle,WA,47.622433,-122.342766
+62,"10711 meridian ave n, seattle, wa 98133",10711 Meridian Ave N,Unknown,King,98133,Seattle,WA,47.70734,-122.334625
+63,"10541 stone ave n, seattle, wa 98133",10541 Stone Ave N,Unknown,King County,98133,Seattle,WA,47.706243,-122.342417
+64,"8500 20th ave ne, seattle, wa 98115",8500 20th Ave NE,Unknown,King,98115,Seattle,WA,47.690533,-122.306473
+65,"15135 stone ln n, seattle, wa 98133",15135 Stone Ln N,Unknown,King County,98133,Seattle,WA,47.737753,-122.34216
+66,"101 6th ave s, seattle, wa 98104",101 6th Ave S,Unknown,King,98104,Seattle,WA,47.601379,-122.326637
+67,"105 warren ave n, seattle, wa 98109",105 Warren Ave N,Unknown,King,98109,Seattle,WA,47.61879,-122.35451
+68,"2525 14th ave s, seattle, wa 98144",2525 14th Ave S,Unknown,King County,98144,Seattle,WA,47.580246,-122.315423
+69,"2641 42nd ave sw, seattle, wa 98116",2641 42nd Ave SW,Unknown,King,98116,Seattle,WA,47.57981,-122.38554
+70,"337 ne 103rd st, seattle, wa 98125",337 Ne 103rd St,Unknown,King,98125,Seattle,WA,47.70219,-122.325
+71,"union st @ 23rd ave, seattle, wa 98122",Union St @ 23rd Ave,Unknown,King County,98122,Seattle,WA,47.61332,-122.30319
+72,"527 eastlake ave e, seattle, wa 98109",527 Eastlake Ave E,Unknown,King,98109,Seattle,WA,47.623976,-122.329526
+73,"118 republican st, seattle, wa 98109",118 Republican St,Unknown,King,98109,Seattle,WA,47.62369,-122.35478
+74,"170 11th ave, seattle, wa 98122",170 11th Ave,Unknown,King,98122,Seattle,WA,47.603352,-122.317726
+75,"1255 harrison st, seattle, wa 98109",1255 Harrison St,Unknown,King,98109,Seattle,WA,47.621605,-122.331131
+76,"2237 n 106th st, seattle, wa 98133",2237 N 106th St,Unknown,King,98133,Seattle,WA,47.705418,-122.331032
+77,"1414 10th ave, seattle, wa 98122",1414 10th Ave,Unknown,King,98122,Seattle,WA,47.61328,-122.31879
+78,"103 12th ave, seattle, wa 98122",103 12th Ave,Unknown,King County,98122,Seattle,WA,47.601853,-122.317195
+79,"4726 11th ave ne, seattle, wa 98105",4726 11th Ave NE,Unknown,King,98105,Seattle,WA,47.663897,-122.316023
+80,"829 ne 67th st, seattle, wa 98115",829 Ne 67th St,Unknown,King,98115,Seattle,WA,47.677086,-122.31881
+81,"3801 stone way n, seattle, wa 98103",3801 Stone Way N,Unknown,King,98103,Seattle,WA,47.65299,-122.343036
+82,"910 john st, seattle, wa 98109",910 John St,Unknown,King,98109,Seattle,WA,47.619911,-122.339386
+83,"229 queen anne ave n, seattle, wa 98109",229 Queen Anne Ave N,Unknown,King,98109,Seattle,WA,47.620687,-122.357117
+84,"8551 greenwood ave n, seattle, wa 98103",8551 Greenwood Ave N,Unknown,King,98103,Seattle,WA,47.692089,-122.355721
+85,"3800 aurora ave n, seattle, wa 98103",3800 Aurora Ave N,Unknown,King County,98103,Seattle,WA,47.65306,-122.346899
+86,"905 dexter ave n, seattle, wa 98109",905 Dexter Ave N,Unknown,King,98109,Seattle,WA,47.62772,-122.34271
+87,"1942 westlake ave, apt 1942, seattle, wa 98101",1942 Westlake Ave,Apt 1942,King County,98101,Seattle,WA,47.61459,-122.33718
+88,"915 e spruce st, seattle, wa 98104",915 E Spruce St,Unknown,King County,98104,Seattle,WA,47.60318,-122.31974
+89,"241 yale ave n, seattle, wa 98109",241 Yale Ave N,Unknown,King,98109,Seattle,WA,47.62051,-122.33135
+90,"3520 27th pl w, seattle, wa 98199",3520 27th Pl W,Unknown,King,98199,Seattle,WA,47.65261,-122.39029
+91,"2401 3rd ave, seattle, wa 98121",2401 3rd Ave,Unknown,King,98121,Seattle,WA,47.61546,-122.34658
+92,"1425 spring st, seattle, wa 98104",1425 Spring St,Unknown,King,98104,Seattle,WA,47.61143,-122.32122
+93,"4555 39th ave sw, seattle, wa 98116",4555 39th Ave SW,Unknown,King,98116,Seattle,WA,47.56137,-122.38232
+94,"4710 20th ave ne, seattle, wa 98105",4710 20th Ave NE,Unknown,King,98105,Seattle,WA,47.663548,-122.306188
+95,"4040 8th ave ne, seattle, wa 98105",4040 8th Ave NE,Unknown,King,98105,Seattle,WA,47.656784,-122.31945
+96,"206 5th ave n, seattle, wa 98109",206 5th Ave N,Unknown,King,98109,Seattle,WA,47.62004,-122.34724
+97,"13433 greenwood ave n, seattle, wa 98133",13433 Greenwood Ave N,Unknown,King,98133,Seattle,WA,47.726868,-122.356071
+98,"1111 e olive st, seattle, wa 98122",1111 E Olive St,Unknown,King,98122,Seattle,WA,47.616173,-122.317787
+99,"1280 harrison st, seattle, wa 98109",1280 Harrison St,Unknown,King,98109,Seattle,WA,47.6228,-122.33123
+100,"1320 e highland ave, phoenix, az 85014",1320 E Highland Ave,Unknown,Maricopa,85014,Phoenix,AZ,33.50594,-112.05388
+101,"35035 n north valley pkwy, phoenix, az 85086",35035 N North Valley Pkwy,Unknown,Maricopa,85086,Phoenix,AZ,33.80303,-112.13114
+102,"3802 n 28th st, phoenix, az 85016",3802 N 28th St,Unknown,Maricopa,85016,Phoenix,AZ,33.49177,-112.02178
+103,"4815 e thomas rd, phoenix, az 85018",4815 E Thomas Rd,Unknown,Maricopa,85018,Phoenix,AZ,33.47952,-111.9774
+104,"9330 w mcdowell rd, phoenix, az 85037",9330 W Mcdowell Rd,Unknown,Maricopa County,85037,Phoenix,AZ,33.466446,-112.259655
+105,"5421 w indian school rd, phoenix, az 85031",5421 W Indian School Rd,Unknown,Maricopa,85031,Phoenix,AZ,33.493667,-112.176221
+106,"5550 e deer valley dr, phoenix, az 85054",5550 E Deer Valley Dr,Unknown,Maricopa,85054,Phoenix,AZ,33.677541,-111.961572
+107,"4029 w mcdowell rd, phoenix, az 85009",4029 W Mcdowell Rd,Unknown,Maricopa County,85009,Phoenix,AZ,33.4656,-112.147008
+108,"6525 n 15th ave, phoenix, az 85015",6525 N 15th Ave,Unknown,Maricopa County,85015,Phoenix,AZ,33.53223,-112.09055
+109,"121 w portland st, phoenix, az 85003",121 W Portland St,Unknown,Maricopa,85003,Phoenix,AZ,33.45948,-112.07494
+110,"888 n 4th st, phoenix, az 85004",888 N 4th St,Unknown,Maricopa,85004,Phoenix,AZ,33.4571,-112.06901
+111,"6131 n 27th ave, phoenix, az 85017",6131 N 27th Ave,Unknown,Maricopa,85017,Phoenix,AZ,33.52718,-112.11547
+112,"2242-2302 e pinchot ave, phoenix, az 85016",2242-2302 E Pinchot Ave,Unknown,Maricopa County,85016,Phoenix,AZ,33.48236,-112.03252
+113,"34000 n 27th dr, phoenix, az 85085",34000 N 27th Dr,Unknown,Maricopa,85085,Phoenix,AZ,33.792764,-112.120852
+114,"3535 w tierra buena ln, phoenix, az 85053",3535 W Tierra Buena Ln,Unknown,Maricopa,85053,Phoenix,AZ,33.6277,-112.13703
+115,"2216 e eugie ter, apt 205, phoenix, az 85022",2216 E Eugie Ter,Apt 205,Maricopa,85022,Phoenix,AZ,33.609425,-112.035241
+116,"27 e corona ave, phoenix, az 85040",27 E Corona Ave,Unknown,Maricopa,85040,Phoenix,AZ,33.40539,-112.07184
+117,"5102 e piedmont rd, phoenix, az 85044",5102 E Piedmont Rd,Unknown,Maricopa,85044,Phoenix,AZ,33.358391,-111.972488
+118,"909 e camelback rd, phoenix, az 85014",909 E Camelback Rd,Unknown,Maricopa,85014,Phoenix,AZ,33.507651,-112.061855
+119,"15202 n 40th st, phoenix, az 85032",15202 N 40th St,Unknown,Maricopa,85032,Phoenix,AZ,33.62497,-111.99666
+120,"1450 e bell rd, phoenix, az 85022",1450 E Bell Rd,Unknown,Maricopa,85022,Phoenix,AZ,33.64104,-112.05158
+121,"5401 e thomas rd, phoenix, az 85018",5401 E Thomas Rd,Unknown,Maricopa,85018,Phoenix,AZ,33.47984,-111.96469
+122,"4323 n 27th ave, phoenix, az 85017",4323 N 27th Ave,Unknown,Maricopa,85017,Phoenix,AZ,33.499731,-112.115804
+123,"4949 n 7th st, phoenix, az 85014",4949 N 7th St,Unknown,Maricopa,85014,Phoenix,AZ,33.508070000000004,-112.06433
+124,"6611 e mayo blvd, phoenix, az 85054",6611 E Mayo Blvd,Unknown,Maricopa,85054,Phoenix,AZ,33.654755,-111.937584
+125,"357 w pierson st, phoenix, az 85013",357 W Pierson St,Unknown,Maricopa County,85013,Phoenix,AZ,33.507019,-112.079256
+126,"2522 w highland ave, phoenix, az 85017",2522 W Highland Ave,Unknown,Maricopa County,85017,Phoenix,AZ,33.50615,-112.1141
+127,"2540 w maryland ave, phoenix, az 85017",2540 W Maryland Ave,Unknown,Maricopa,85017,Phoenix,AZ,33.53161,-112.1149
+128,"4304 e campbell ave, phoenix, az 85018",4304 E Campbell Ave,Unknown,Maricopa,85018,Phoenix,AZ,33.50278,-111.98843
+129,"222 e mcdowell rd, phoenix, az 85004",222 E Mcdowell Rd,Unknown,Maricopa,85004,Phoenix,AZ,33.46625,-112.07136
+130,"1517 e colter st, phoenix, az 85014",1517 E Colter St,Unknown,Maricopa,85014,Phoenix,AZ,33.51259,-112.04959
+131,"840 w tonto st, phoenix, az 85007",840 W Tonto St,Unknown,Maricopa,85007,Phoenix,AZ,33.43886,-112.084175
+132,"4001 w camelback rd, phoenix, az 85019",4001 W Camelback Rd,Unknown,Maricopa,85019,Phoenix,AZ,33.509022,-112.144829
+133,"3613-3644 n 5th ave, phoenix, az 85013",3613-3644 N 5th Ave,Unknown,Maricopa County,85013,Phoenix,AZ,33.48984,-112.08021
+134,"5343 e taylor st, phoenix, az 85008",5343 E Taylor St,Unknown,Maricopa County,85008,Phoenix,AZ,33.452923,-111.96568
+135,"3708 w northern ave, phoenix, az 85051",3708 W Northern Ave,Unknown,Maricopa County,85051,Phoenix,AZ,33.553594,-112.139283
+136,"1505 n central ave, phoenix, az 85004",1505 N Central Ave,Unknown,Maricopa,85004,Phoenix,AZ,33.464245,-112.072906
+137,"2928 e osborn rd, phoenix, az 85016",2928 E Osborn Rd,Unknown,Maricopa,85016,Phoenix,AZ,33.487802,-112.01883
+138,"5010 e cheyenne dr, phoenix, az 85044",5010 E Cheyenne Dr,Unknown,Maricopa,85044,Phoenix,AZ,33.34592,-111.97743
+139,"44 w monroe st, phoenix, az 85003",44 W Monroe St,Unknown,Maricopa,85003,Phoenix,AZ,33.45068,-112.07473
+140,"6161 w mcdowell rd, phoenix, az 85035",6161 W Mcdowell Rd,Unknown,Maricopa,85035,Phoenix,AZ,33.464997,-112.190858
+141,"2015 w cactus rd, phoenix, az 85029",2015 W Cactus Rd,Unknown,Maricopa,85029,Phoenix,AZ,33.59551,-112.10255
+142,"3001 n 32nd st, phoenix, az 85018",3001 N 32nd St,Unknown,Maricopa,85018,Phoenix,AZ,33.48284,-112.01249
+143,"15425 n tatum blvd, phoenix, az 85032",15425 N Tatum Blvd,Unknown,Maricopa,85032,Phoenix,AZ,33.62664,-111.97612
+144,"3851 n 28th st, phoenix, az 85016",3851 N 28th St,Unknown,Maricopa,85016,Phoenix,AZ,33.493504,-112.020142
+145,"600 n 4th st, phoenix, az 85004",600 N 4th St,Unknown,Maricopa,85004,Phoenix,AZ,33.455036,-112.069174
+146,"3633 n 6th ave, phoenix, az 85013",3633 N 6th Ave,Unknown,Maricopa,85013,Phoenix,AZ,33.49028,-112.08161
+147,"3411 n 16th st, phoenix, az 85016",3411 N 16th St,Unknown,Maricopa County,85016,Phoenix,AZ,33.488175,-112.045382
+148,"9652 n 31st ave, phoenix, az 85051",9652 N 31st Ave,Unknown,Maricopa,85051,Phoenix,AZ,33.573837,-112.126943
+149,"7725 w mcdowell rd, phoenix, az 85035",7725 W Mcdowell Rd,Unknown,Maricopa,85035,Phoenix,AZ,33.46522,-112.22706
+150,"8331 sw 96th pl, miami, fl 33173",8331 Sw 96th Pl,Unknown,Miami-Dade,33173,Miami,FL,25.691312,-80.349107
+151,"3500 coral way, miami, fl 33145",3500 Coral Way,Unknown,Miami-Dade,33145,Miami,FL,25.749473,-80.250598
+152,"729 nw 2nd st, miami, fl 33128",729 Nw 2nd St,Unknown,Miami-Dade,33128,Miami,FL,25.7762,-80.20705
+153,"435 ne 23rd st, miami, fl 33137",435 Ne 23rd St,Unknown,Miami-Dade,33137,Miami,FL,25.799323,-80.187226
+154,"15601 sw 137th ave, apt 224, miami, fl 33177",15601 Sw 137th Ave,Apt 224,Miami-Dade,33177,Miami,FL,25.622054,-80.414445
+155,"851 ne 1st ave, unit 3106, miami, fl 33132",851 Ne 1st Ave,Unit 3106,Miami-Dade,33132,Miami,FL,25.782889,-80.191906
+156,"57 nw 69th st, miami, fl 33150",57 Nw 69th St,Unknown,Miami-Dade,33150,Miami,FL,25.83844,-80.197784
+157,"851 ne 1st ave, unit 511, miami, fl 33132",851 Ne 1st Ave,Unit 511,Miami-Dade,33132,Miami,FL,25.782889,-80.191906
+158,"13800 ne 6th ave, north, miami, fl 33161",13800 Ne 6th Ave,North,Miami-Dade,33161,Miami,FL,25.90244,-80.18745
+159,"14148 sw 93rd ln, unit 14148, miami, fl 33186",14148 Sw 93rd Ln,Unit 14148,Miami-Dade,33186,Miami,FL,25.681053,-80.419631
+160,"9051 sw 122nd ave, miami, fl 33186",9051 Sw 122nd Ave,Unknown,Miami-Dade,33186,Miami,FL,25.68295,-80.3908
+161,"8818 sw 72nd st, miami, fl 33173",8818 Sw 72nd St,Unknown,Miami-Dade County,33173,Miami,FL,25.70124,-80.33694
+162,"50 sw 10th st, miami, fl 33130",50 Sw 10th St,Unknown,Miami-Dade,33130,Miami,FL,25.76395,-80.19387
+163,"9117 sw 72nd ave, miami, fl 33156",9117 Sw 72nd Ave,Unknown,Miami-Dade County,33156,Miami,FL,25.68613,-80.309841
+164,"8961-9041 sw 142nd ave, miami, fl 33186",8961-9041 Sw 142nd Ave,Unknown,Miami-Dade County,33186,Miami,FL,25.68428,-80.42268
+165,"9300 sw 137th ave, miami, fl 33186",9300 Sw 137th Ave,Unknown,Miami-Dade,33186,Miami,FL,25.68107,-80.41742
+166,"2201 ludlam rd, miami, fl 33155",2201 Ludlam Rd,Unknown,Miami-Dade County,33155,Miami,FL,25.74956,-80.303418
+167,"8855 fontainebleau blvd, miami, fl 33172",8855 Fontainebleau Blvd,Unknown,Miami-Dade,33172,Miami,FL,25.7732,-80.340149
+168,"13865 w dixie hwy, north, miami, fl 33161",13865 W Dixie Hwy,North,Miami-Dade County,33161,Miami,FL,25.90202,-80.17576
+169,"8215 sw 72nd ave, miami, fl 33143",8215 Sw 72nd Ave,Unknown,Miami-Dade,33143,Miami,FL,25.693701,-80.30854
+170,"340 w flagler st, miami, fl 33130",340 W Flagler St,Unknown,Miami-Dade,33130,Miami,FL,25.773568,-80.199961
+171,"6880-6920 sw 44th st, miami, fl 33155",6880-6920 Sw 44th St,Unknown,Miami-Dade County,33155,Miami,FL,25.72908,-80.3053
+172,"455 ne 24th st, miami, fl 33137",455 Ne 24th St,Unknown,Miami-Dade,33137,Miami,FL,25.800440000000002,-80.18698
+173,"6259 sunset dr, south, miami, fl 33143",6259 Sunset Dr,South,Miami-Dade County,33143,Miami,FL,25.70443,-80.294668
+174,"11020 sw 196th st, miami, fl 33157",11020 Sw 196th St,Unknown,Miami-Dade County,33157,Miami,FL,25.583963,-80.369557
+175,"777 nw 155th ln, miami, fl 33169",777 Nw 155th Ln,Unknown,Miami-Dade County,33169,Miami,FL,25.9178,-80.21404
+176,"9601 sw 142nd ave, miami, fl 33186",9601 Sw 142nd Ave,Unknown,Miami-Dade County,33186,Miami,FL,25.676114,-80.419706
+177,"230 ne 4th st, miami, fl 33132",230 Ne 4th St,Unknown,Miami-Dade,33132,Miami,FL,25.777841,-80.189716
+178,"58 ne 14th st, miami, fl 33132",58 Ne 14th St,Unknown,Miami-Dade County,33132,Miami,FL,25.787947,-80.192885
+179,"8337 sw 107th ave, miami, fl 33173",8337 Sw 107th Ave,Unknown,Miami-Dade,33173,Miami,FL,25.69122,-80.36561
+180,"1111 brickell bay dr, miami, fl 33131",1111 Brickell Bay Dr,Unknown,Miami-Dade,33131,Miami,FL,25.762968,-80.189136
+181,"86 sw 8th st, miami, fl 33130",86 Sw 8th St,Unknown,Miami-Dade,33130,Miami,FL,25.766085,-80.194466
+182,"760 ne 85th st, miami, fl 33138",760 Ne 85th St,Unknown,Miami-Dade,33138,Miami,FL,25.853339,-80.181544
+183,"2660 sw 37th ave, miami, fl 33133",2660 Sw 37th Ave,Unknown,Miami-Dade County,33133,Miami,FL,25.74173,-80.254628
+184,"5375 nw 7th st, miami, fl 33126",5375 Nw 7th St,Unknown,Miami-Dade,33126,Miami,FL,25.778509,-80.283279
+185,"11325 nw 7th st, miami, fl 33172",11325 Nw 7th St,Unknown,Miami-Dade,33172,Miami,FL,25.77572,-80.37695
+186,"6001 sw 70th st, south, miami, fl 33143",6001 Sw 70th St,South,Miami-Dade,33143,Miami,FL,25.70649,-80.29128
+187,"125 ne 32nd st, miami, fl 33137",125 Ne 32nd St,Unknown,Miami-Dade,33137,Miami,FL,25.807001,-80.19249
+188,"9357 sw 77th ave, miami, fl 33156",9357 Sw 77th Ave,Unknown,Miami-Dade,33156,Miami,FL,25.68401,-80.31825
+189,"2321 laguna cir, north, miami, fl 33181",2321 Laguna Cir,North,Miami-Dade,33181,Miami,FL,25.912964,-80.152579
+190,"580 ne 127th st, north, miami, fl 33161",580 Ne 127th St,North,Miami-Dade,33161,Miami,FL,25.891699,-80.187209
+191,"235 nw 14th ter, miami, fl 33136",235 Nw 14th Ter,Unknown,Miami-Dade,33136,Miami,FL,25.788814,-80.199495
+192,"7440 n kendall dr, miami, fl 33156",7440 N Kendall Dr,Unknown,Miami-Dade,33156,Miami,FL,25.687704,-80.31563
+193,"3000 sw 3rd ave, miami, fl 33129",3000 Sw 3rd Ave,Unknown,Miami-Dade,33129,Miami,FL,25.752996,-80.212311
+194,"6620 sw 57th ave, miami, fl 33143",6620 Sw 57th Ave,Unknown,Miami-Dade County,33143,Miami,FL,25.70902,-80.28599
+195,"10571 sw 156th pl, miami, fl 33196",10571 Sw 156th Pl,Unknown,Miami-Dade,33196,Miami,FL,25.66769,-80.44803
+196,"8940 nw 8th st, miami, fl 33172",8940 Nw 8th St,Unknown,Miami-Dade,33172,Miami,FL,25.77947,-80.34076
+197,"12375 sw 18th st, miami, fl 33175",12375 Sw 18th St,Unknown,Miami-Dade,33175,Miami,FL,25.753339,-80.395481
+198,"3967 ne 168th st, miami, fl 33160",3967 Ne 168th St,Unknown,Miami-Dade County,33160,Miami,FL,25.935085,-80.131993
+199,"13150 memorial hwy, north, miami, fl 33161",13150 Memorial Hwy,North,Miami-Dade,33161,Miami,FL,25.896132,-80.194298
